@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e51bceeb-883a-4d6c-af00-31ff5fee4cc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lSyIcPjaQcSd1eSdtxXZ4c78L2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Profile/Profileinfo" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node\my-app\src\Components\Profile\Profileinfo" />
+      <recent name="E:\Node\my-app\src\Components\Users" />
+      <recent name="E:\Node\my-app\src\Components\Common\Paginator" />
+      <recent name="E:\Node\my-app\src\Redux" />
+      <recent name="E:\Node\my-app\src\Components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node\my-app\src\Components\Common\Paginator" />
+      <recent name="E:\Node\my-app\src\utils" />
+      <recent name="E:\Node\my-app\src\Components\Header" />
+      <recent name="E:\Node\my-app\src\Components" />
+      <recent name="E:\Node\my-app\src\Components\Dialogs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Paginator component tests">
+    <configuration name="Paginator component tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/Components/Common/Paginator/Paginator.test.js" />
+      <test-names>
+        <test-name value="Paginator component tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/Components/Profile/Profileinfo/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.after creation &lt;input&gt; shouldn't be displayed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Components/Profile/Profileinfo/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="after creation &lt;input&gt; shouldn't be displayed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.after creation &lt;span&gt; should be displayed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Components/Profile/Profileinfo/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="after creation &lt;span&gt; should be displayed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.callback should be called" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Components/Profile/Profileinfo/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="callback should be called" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Paginator component tests" />
+        <item itemvalue="Jest.ProfileStatus component.after creation &lt;span&gt; should be displayed" />
+        <item itemvalue="Jest.ProfileStatus component.after creation &lt;input&gt; shouldn't be displayed" />
+        <item itemvalue="Jest.ProfileStatus component.callback should be called" />
+        <item itemvalue="Jest.ProfileStatus component" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51bceeb-883a-4d6c-af00-31ff5fee4cc9" name="Default Changelist" comment="" />
+      <created>1607604708191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607604708191</updated>
+      <workItem from="1607604711370" duration="683000" />
+      <workItem from="1607615024739" duration="3402000" />
+      <workItem from="1607670609566" duration="4361000" />
+      <workItem from="1607702926201" duration="2734000" />
+      <workItem from="1607758388645" duration="1494000" />
+      <workItem from="1607761914216" duration="4798000" />
+      <workItem from="1607776573515" duration="6691000" />
+      <workItem from="1607956441133" duration="1891000" />
+      <workItem from="1608016416325" duration="7031000" />
+      <workItem from="1608102263305" duration="1552000" />
+      <workItem from="1608112498590" duration="1567000" />
+      <workItem from="1608120531376" duration="5579000" />
+      <workItem from="1608191203196" duration="1635000" />
+      <workItem from="1608192898027" duration="661000" />
+      <workItem from="1608229478939" duration="1613000" />
+      <workItem from="1608276265047" duration="4136000" />
+      <workItem from="1608368291843" duration="1128000" />
+      <workItem from="1608447991767" duration="5435000" />
+      <workItem from="1608459113348" duration="4702000" />
+      <workItem from="1608475795742" duration="737000" />
+      <workItem from="1608478366429" duration="2372000" />
+      <workItem from="1608481354651" duration="2447000" />
+      <workItem from="1608484235240" duration="831000" />
+      <workItem from="1608622626335" duration="4030000" />
+      <workItem from="1608711092253" duration="6401000" />
+      <workItem from="1608729036373" duration="5243000" />
+      <workItem from="1608799163351" duration="7729000" />
+      <workItem from="1608822227544" duration="1809000" />
+      <workItem from="1608962781539" duration="140000" />
+      <workItem from="1608962951776" duration="5045000" />
+      <workItem from="1608993885088" duration="4918000" />
+      <workItem from="1609137372067" duration="5703000" />
+      <workItem from="1609155776354" duration="1422000" />
+      <workItem from="1609165712819" duration="7474000" />
+      <workItem from="1609216372808" duration="4146000" />
+      <workItem from="1609742941734" duration="9663000" />
+      <workItem from="1609770812401" duration="1192000" />
+      <workItem from="1609918626975" duration="678000" />
+      <workItem from="1609923694198" duration="4416000" />
+      <workItem from="1609939359422" duration="7405000" />
+      <workItem from="1610005337500" duration="633000" />
+      <workItem from="1610034021610" duration="606000" />
+      <workItem from="1610038633358" duration="1775000" />
+      <workItem from="1610040473667" duration="456000" />
+      <workItem from="1610113859671" duration="28000" />
+      <workItem from="1610113987271" duration="1273000" />
+      <workItem from="1610178420866" duration="145000" />
+      <workItem from="1610180174053" duration="1240000" />
+      <workItem from="1610181935836" duration="1776000" />
+      <workItem from="1610183759432" duration="1709000" />
+      <workItem from="1610212777982" duration="657000" />
+      <workItem from="1610261719382" duration="1536000" />
+      <workItem from="1610263658251" duration="1668000" />
+      <workItem from="1610353158328" duration="619000" />
+      <workItem from="1610353828813" duration="82000" />
+      <workItem from="1610353960348" duration="221000" />
+      <workItem from="1610354216380" duration="1867000" />
+      <workItem from="1610375763660" duration="1770000" />
+      <workItem from="1610378565554" duration="1151000" />
+      <workItem from="1610379909561" duration="658000" />
+      <workItem from="1610380832698" duration="1773000" />
+      <workItem from="1610382647464" duration="1772000" />
+      <workItem from="1610384467012" duration="1202000" />
+      <workItem from="1610390611856" duration="137000" />
+      <workItem from="1610392185813" duration="327000" />
+      <workItem from="1610428824865" duration="1399000" />
+      <workItem from="1610441958614" duration="1783000" />
+      <workItem from="1610443789672" duration="1445000" />
+      <workItem from="1610545172135" duration="656000" />
+      <workItem from="1610546722763" duration="1774000" />
+      <workItem from="1610548546962" duration="1597000" />
+      <workItem from="1610615830157" duration="1772000" />
+      <workItem from="1610702320566" duration="1779000" />
+      <workItem from="1610704155948" duration="773000" />
+      <workItem from="1610705227529" duration="51000" />
+      <workItem from="1610706730647" duration="1099000" />
+      <workItem from="1610734765733" duration="449000" />
+      <workItem from="1610816230461" duration="1269000" />
+      <workItem from="1610819665612" duration="900000" />
+      <workItem from="1610956613426" duration="633000" />
+      <workItem from="1610958664629" duration="1766000" />
+      <workItem from="1610960475865" duration="774000" />
+      <workItem from="1610982588961" duration="1016000" />
+      <workItem from="1610984150237" duration="1599000" />
+      <workItem from="1610987891289" duration="1812000" />
+      <workItem from="1610989750789" duration="1773000" />
+      <workItem from="1610991567363" duration="1774000" />
+      <workItem from="1610993400040" duration="1758000" />
+      <workItem from="1611032731406" duration="387000" />
+      <workItem from="1611033164150" duration="15000" />
+      <workItem from="1611033740138" duration="1446000" />
+      <workItem from="1611035646246" duration="779000" />
+      <workItem from="1611036581690" duration="1516000" />
+      <workItem from="1611042628313" duration="1815000" />
+      <workItem from="1611045911302" duration="454000" />
+      <workItem from="1611046444824" duration="587000" />
+      <workItem from="1611047276670" duration="1776000" />
+      <workItem from="1611049165849" duration="614000" />
+      <workItem from="1611061762640" duration="329000" />
+      <workItem from="1611152849885" duration="1212000" />
+      <workItem from="1611154122661" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
